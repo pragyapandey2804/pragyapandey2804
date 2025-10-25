@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Pragya!
 
-<!--
-**pragyapandey2804/pragyapandey2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Robotics & Automation Engineering student  
+🤖 Developing intelligent robots, cobots & autonomous systems  
+🏭 Passionate about Industrial Robotics & Automation  
+🧠 Exploring AI, ML & Computer Vision for smart machines  
+🔧 Hands-on with Embedded Systems, Sensors & ROS2  
+💡 Turning innovative ideas into real-world projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyapandey2804&show_icons=true&theme=radical&hide_rank=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
