@@ -2,7 +2,7 @@
 
 👩‍💻 Robotics & Automation Engineering student  
 🤖 Developing intelligent robots, cobots & autonomous systems  
-🏭 Passionate about Industrial Robotics & Automation  
+🏭 Industrial Robotics & Automation  
 🧠 Exploring AI, ML & Computer Vision for smart machines  
 🔧 Hands-on with Embedded Systems, Sensors & ROS2  
 💡 Turning innovative ideas into real-world projects
