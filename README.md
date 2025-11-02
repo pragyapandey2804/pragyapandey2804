@@ -17,6 +17,7 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23F78C40.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC%20Programming-%23007ACC.svg?style=for-the-badge&logo=siemens&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors-%23FFB300.svg?style=for-the-badge&logo=analogdevices&logoColor=black)
+![Gazebo](https://img.shields.io/badge/Gazebo-%23000000.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### 🧠 AI & Computer Vision
